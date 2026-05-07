@@ -1,1 +1,1 @@
-Pair programming achievement 👯
+Pair programming achievement
